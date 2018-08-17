@@ -1122,7 +1122,7 @@ itemGroup.SwordsTab=Advent Swords
 itemGroup.ThrownWeaponsTab=Advent Throwables
 itemGroup.VulcanesTab=Advent Vulcanes
 
-items.description.ammo.arrows=Ammo: Holly Arrows
+items.description.ammo.arrows=消耗：冬青箭
 items.description.ammo.bullets=Ammo: Bullets
 items.description.ammo.cannonballs=Ammo: Cannonballs
 items.description.ammo.energy=Consumes %1$s Energy
@@ -1178,17 +1178,18 @@ items.description.throwable.speed=Throw Speed: %1$s/sec
 items.description.thrownWeapon=Thrown Weapon
 items.description.vulcane.use=Use When Revenge is Active
 
-key.categories.advent=Advent Keys
+key.categories.advent=Advent 按键
 
-key.cstats=Toggle Mob Overheads
-key.exped=Expedition Boost Toggle
-key.notice=Close Login Notice
-key.skills=Toggle Skills Display
-key.skillsLeft=Previous Skill Name
-key.skillsRight=Next Skill Name
+key.cstats=打开/关闭生物免疫类型图标
+key.exped=切换远征技能效果
+key.notice=关闭公告板
+key.skills=打开/关闭技能栏
+key.skillsLeft=上一个技能名称
+key.skillsRight=下一个技能名称
 
-message.feedback.hunterRequirement=You need to have %1$s levels of Hunter experience to be able to fight this creature.
-message.feedback.item.vulcane.fail=You need level %1$s vulcanism to use this vulcane.
+message.feedback.hunterRequirement=你需要至少%1$s级的狩猎等级才可以攻击这个怪物。
+message.feedback.item.vulcane.fail=你需要%1$s级的浊流技能等级才能使用这个浊流之杖。
+
 
 skills.alchemy.name=Alchemy
 skills.anima.name=灵气
